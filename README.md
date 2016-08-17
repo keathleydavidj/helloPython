@@ -1,2 +1,2 @@
 # helloPython
-A basic web app built on Python using the web.py framework
+An API built on python to be consumed by an ember.js app
